@@ -5,7 +5,7 @@ def usage():
     msg = """
         
         example:
-        patsakis-askisi-13.py 34678253793
+        askisi-13.py 34678253793
         
     """
     print(msg)
